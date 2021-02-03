@@ -6,8 +6,8 @@ public class StackVector implements Stack{
     Vector numbers = new Vector();
     Vector ops = new Vector();
     //Vectors para utilizar en las operaciones
-    
+
     public void push(Vector list){
-        
+    
     }
 }
